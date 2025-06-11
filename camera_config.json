@@ -1,0 +1,19 @@
+[
+    {
+      "name": "Camera 1",
+      "index": 0,
+      "enabled": true,
+      "resolution": [640, 480],
+      "preview_fps": 5,
+      "stream_fps": 15
+    },
+    {
+      "name": "Camera 2",
+      "index": 1,
+      "enabled": true,
+      "resolution": [640, 480],
+      "preview_fps": 5,
+      "stream_fps": 15
+    }
+  ]
+  
